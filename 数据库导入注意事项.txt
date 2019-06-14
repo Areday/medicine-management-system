@@ -1,0 +1,1 @@
+先在navcat中建一个数据库gspstore，然后选中以后运行sql文件。
